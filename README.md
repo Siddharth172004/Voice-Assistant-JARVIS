@@ -10,7 +10,7 @@ Jarvis is a simple voice assistant built using Python. It can recognize your voi
 📦Jarvis
  ┣ 📜main.py              # Main script to activate Jarvis and process voice commands
  ┣ 📜client.py            # Handles API requests to AI model
- ┣ 📜musiclibrary.py      # Stores a dictionary of songs with their YouTube links
+ ┣ 📜musiclibrary.py      # Stores a dictionary of songs with their YouTube links 
  ┣ 📜README.md            # Project overview and setup instructions
 ```
 
@@ -43,7 +43,7 @@ pip install requests
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/jarvis-voice-assistant.git
+   git clone https://github.com/Siddharth172004/jarvis-voice-assistant.git
    cd jarvis-voice-assistant
    ```
 

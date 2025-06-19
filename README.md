@@ -44,7 +44,7 @@ pip install requests
 1. Clone this repo:
    ```bash
    git clone https://github.com/Siddharth172004/Voice-Assistant-JARVIS.git
-   cd jarvis-voice-assistant
+   cd Voice-Assistant-JARVIS
    ```
 
 2. Run the assistant:

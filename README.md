@@ -77,8 +77,8 @@ Say `Jarvis` to activate, then speak a command like:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/jarvis-voice-assistant.git
-   cd jarvis-voice-assistant
+   git clone https://github.com/Siddharth172004/Voice-Assistant-JARVIS.git
+   cd Voice-Assistant-JARVIS
    ```
 
 2. Run the assistant:

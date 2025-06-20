@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/JARVIS banner1.png" alt="Jarvis Banner" width="100%" />
+</p>
+
 
 # 🧠 Jarvis - Python Voice Assistant
 
